@@ -4,7 +4,7 @@
 Statement of User Rights
 ========================
 
-The Code of User Rights is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
+The Statement of User Rights is primarily a social contract between the user and developer establishing a set of rights or "liberties" acknowledged to exist within each another. It's purpose is to coalesce pre-existing boundaries into a written statement granting intellectual freedom and acknowledging independence of thought.
 
 Preface
 -------
@@ -14,10 +14,16 @@ This document is _still under development_, it should in now way, shape or, form
 Intro
 -----
 
-The Statement of User Rights is a critical response to certain "Code of Conduct" (i.e. COC) agreements that
-possess certain traits that constrain, limit, or exclude developers.
+The Statement of User Rights is a critical response to certain "Code of Conduct" (i.e. COC) agreements that have 
+strayed far from the purpose for which they were originally used for. Originally these agreements were intended to
+provide some very basic and loosely defined groundrules for "play time with friends". Their purpose was geared toward
+inclusiveness and wide acceptance of others in order form a homogenous, congenial, and productive group of individuals.
 
-These traits are:
+It is uncertain exactly when these agreements began to vere away from their original purpose, but currently they have
+taken a completely different direction, and are written with the intent to exclude others, constrain open
+participation, and limit independent critical reasoning.
+
+The key traits of these Code of Conducts are:
 * Extension of the COC to include common end users, rather than solely binding contributors
 * Inclusion of biased political idealology.
 * Agreements intended to stifle freedom of expression and/or limit free thinking.
@@ -38,15 +44,18 @@ Their CofC was the preliminary inspiration for the Code of User Rights.
 
 ### Dev.to
 
-Comparatively to NodeSource, dev.to's CofC goes much much further.
+Comparatively to NodeSource, dev.to's CofC is written from a biased perspective, and goes much much further.
 
 ```text
 We pledge to prioritize marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
-         'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
-         Reasonable communication of boundaries, such as 'leave me alone,' 'go away,' or 'I'm not discussing this with you.'
-         Someone's refusal to explain or debate social justice concepts
-         Criticisms of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+- 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
+- Reasonable communication of boundaries, such as 'leave me alone,' 'go away,' or 'I'm not discussing this with you.'
+- Someone's refusal to explain or debate social justice concepts
+- Criticisms of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 ```
+
+As with all manner of language that entails an obligation, the devil is in the details. The effort invested into creating this CoC was not oblivious to the fact some keenly aware individuals might be uncomfortable agreeing. In fact, it was intentionally written to be exclusionary of such individuals. This destroys the entire purpose for which Code of Conducts were created, and in many ways is a form of exploitation. It takes for granted both independent critical reasoning, and independent liberties of thought.
+
 
 Preliminary History
 --------------------
