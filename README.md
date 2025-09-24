@@ -1,5 +1,5 @@
 > [!NOTE]
-> __Work In Progress:__ I work on this from time to time, cleaning up grammar, rewording sentences, and adding content. This something I contemplate on from time to time, it is a proof of concept for a new type of social contract.
+> __Work In Progress:__ I work on this from time to time, cleaning up grammar, rewording sentences, and adding content. This something I contemplate on from time to time, it is a proof of concept, mere jibber jabber.
 
 Statement of User Rights
 ========================
@@ -31,7 +31,7 @@ The key traits of these Code of Conducts are:
 * Threats of public shaming, doxing, ostrasizing, and/or other forms of harassment.
 * Attempts to mischaracterize inquiry and challenges to one's position as an act of violence.
 * Obligations/Mandates that result in surrending or compromising an inalienable human right.
-* Attempts to supress freedom of expression, speech and discourse.
+* Attempts to supress freedom of expression, thought, speech and discourse.
 
 Examples of Exclusivistic CofC Agreements:
 ------------------------------------------
@@ -55,6 +55,13 @@ We pledge to prioritize marginalized people's safety over privileged people's co
 ```
 
 As with all manner of language that entails an obligation, the devil is in the details. The effort invested into creating this CoC was not oblivious to the fact some keenly aware individuals might be uncomfortable agreeing. In fact, it was intentionally written to be exclusionary of such individuals. This destroys the entire purpose for which Code of Conducts were created, and in many ways is a form of exploitation. It takes for granted both independent critical reasoning, and independent liberties of thought.
+
+Examples of Reasonable CofC Agreements
+---------------------------------------
+
+### Pine64
+
+Although somewhat long winded, Pine64's Code of Conduct is quite reasonable, and likely acceptable to many. [Pine64 CofC](https://pine64.org/community/Rules/)
 
 
 Preliminary History
